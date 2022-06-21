@@ -45,5 +45,5 @@ Take a look: https://proyecto-final-nu.vercel.app/
 <p style="margin-left: 5px;">
     <a target="_blank" href='https://www.linkedin.com/in/cristian-villalba-csv/'>LinkedIn</a><br></br>
     
-    Email: cssv71@yahoo.com<br></br>
+    Email: csv71@yahoo.com<br></br>
 </p>
