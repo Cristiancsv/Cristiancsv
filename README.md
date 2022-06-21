@@ -16,7 +16,7 @@
     <img style="margin: 10px;" alt='Git' width=50px src='https://git-scm.com/images/logos/downloads/Git-Icon-White.png'/>
     <img style="margin: 10px;" alt='GitHub' width=50px src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'/>
     <img style="margin: 10px;" alt='Slack' width=50px src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png'/>
-    <img style="margin: 10px;" alt='Trello' width=50px src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-atlassian/event_banners/trello-atlassian-logo-circle_Sk2VqVO.png '/>
+    <img style="margin: 10px;" alt='Trello' width=50px src='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-atlassian/event_banners/trello-atlassian-logo-circle_Sk2VqVO.png'/>
     
 </p>
 <br></br>
@@ -41,7 +41,7 @@ Take a look: https://proyecto-final-nu.vercel.app/
 <br></br>
   
 <br></br>
-<h3>📱 Contact Me!</h3>
+<h3> Contact Me!</h3>
 <p style="margin-left: 5px;">
     <a target="_blank" href='https://www.linkedin.com/in/cristian-villalba-csv/'>LinkedIn</a><br></br>
     
